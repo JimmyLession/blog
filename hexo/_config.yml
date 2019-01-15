@@ -4,12 +4,12 @@
 
 # Site
 title: John Lei 's blog
-subtitle: 千里之行，始于足下
-description:
-keywords:
+subtitle: 当放达的脚步在穿越千年的古迹的时候，当满心满眼都塞满浩瀚精美文字的时候，你在追求什么？你在忙碌什么？          
+description: 
+keywords: blog 
 author: John Lei
-language: 
-timezone:
+language: zh-Hans
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
