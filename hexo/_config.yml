@@ -7,7 +7,7 @@ title: 雷建民的博客
 subtitle: 暂无介绍
 description: 
 keywords: blog 
-author: leijmin
+author: 雷建民
 language: zh-Hans
 timezone: 
 
@@ -21,7 +21,7 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+# tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
